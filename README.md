@@ -1,5 +1,3 @@
-# GeoCrash-Analytics
-Geospatial traffic accident analytics using Python, machine learning, clustering, and interactive visualizations.
 # GeoCrash Analytics
 
 A geospatial analytics and machine learning project exploring traffic accident patterns across the United States.
